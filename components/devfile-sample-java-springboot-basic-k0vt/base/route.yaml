@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-java-springboot-basic-k0vt
     app.kubernetes.io/part-of: test-sample-app
-  name: devfile-sample-java-springboot-basic-k0vt
+  name: devfile-sample-java-sprinjw03
   namespace: jephilli-tenant
 spec:
   port:
